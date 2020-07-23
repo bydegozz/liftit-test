@@ -1,0 +1,64 @@
+{
+  "footer": {
+    "brasil": {
+      "img": "",
+      "title": "Brasil"
+    },
+    "mexico": {
+      "img": "",
+      "title": "México"
+    },
+    "ecuador": {
+      "img": "",
+      "title": "Ecuador"
+    },
+    "chile": {
+      "img": "",
+      "title": "Chile"
+    },
+    "colombia": {
+      "img": "",
+      "title": "Colombia"
+    },
+    "generador": {
+      "title": "Generador",
+      "lastmile": "Last mile",
+      "firstmile": "First mile",
+      "longhaul": "Long haul",
+      "tms": "TMS",
+      "multicarrier": "Multicarrier",
+      "comunidad": "Comunidad"
+    },
+    "operador": {
+      "title": "Operador",
+      "tecnologia": "Tecnología",
+      "comunidad": "Comunidad",
+      "flujodecaja": "Flujo de caja",
+      "bajodemanda": "Bajo demanda"
+    },
+    "transportista": {
+      "title": "Transportista",
+      "cargainmediata": "Carga inmediata",
+      "pagoinmediato": "Pago inmediato",
+      "educacion": "Educación",
+      "beneficios": "Beneficios"
+    },
+    "tecnologia": {
+      "title": "Tecnología",
+      "api": "API",
+      "documentacion": "Documentación"
+    },
+    "nosotros": {
+      "title": "Nosotros",
+      "quienessomos": "Quienes somos",
+      "clientes": "Clientes",
+      "respsocialempresarial": "Responsabilidad social empresarial"
+    },
+    "recursos": {
+      "title": "Recursos",
+      "webinars": "Webinars",
+      "blog": "Blog",
+      "casosdeestudio": "Casos de estudio"
+    }
+  }
+}
